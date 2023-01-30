@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='1. Introduction'/>
+        <page name='2. The Core Data Stack'/>
+        <page name='3. Stack Facts'/>
+        <page name='4. Setting Up the Stack in Mooskine'/>
+        <page name='5. Switching to Code-Generated Classes'/>
+        <page name='6. Injecting the DataController Dependency'/>
+        <page name='7. Fetching Data for NotebooksListViewController'/>
+        <page name='8. Adding and Deleting Notebooks'/>
+        <page name='9. Fetch Requests, Faults and Uniquing'/>
+        <page name='10. Creating and Saving Managed Objects'/>
+        <page name='11. Making a Fetch Request'/>
+        <page name='12. Practice. Adapt NotesListViewController'/>
+        <page name='13. Updating NotesListViewController'/>
+        <page name='14. NSPredicateA'/>
+        <page name='14. NSPredicateB'/>
+        <page name='14. NSPredicateC'/>
+        <page name='14. NSPredicateD'/>
+    </pages>
+</playground>

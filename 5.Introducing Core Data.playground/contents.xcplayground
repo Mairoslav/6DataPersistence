@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='1. Intro'/>
+        <page name='2. About Data Layers'/>
+        <page name='3. What is Core Data?'/>
+        <page name='4. More than Persistence'/>
+        <page name='5. Why Persist Data?'/>
+        <page name='6. Why Apps Close'/>
+        <page name='7. Persistence Options'/>
+        <page name='8. Introducing Mooskine'/>
+        <page name='9. Downloading Mooskine'/>
+        <page name='10. The Existing Model'/>
+        <page name='11. Adding a Core Data Model'/>
+        <page name='12. Entities'/>
+        <page name='13. Attributes'/>
+        <page name='14. Attribute Types'/>
+        <page name='15. Optional Attributes'/>
+        <page name='16. Adding Attributes to Note'/>
+        <page name='17. Relationships'/>
+        <page name='18. Two-Sided Relationships and Deletion Rules  '/>
+        <page name='19. Entities Review'/>
+        <page name='20. Code Generation'/>
+        <page name='21. Codegen Consequences'/>
+        <page name='22. Summary'/>
+    </pages>
+</playground>

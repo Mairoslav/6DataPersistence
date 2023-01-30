@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='1.intro'/>
+        <page name='2. Example App'/>
+        <page name='3. Synchronous Download'/>
+        <page name='4. Asynchronous Download'/>
+        <page name='5. An Asynchronous Method'/>
+        <page name='6. Completion Closure'/>
+        <page name='7. Sync vs. Async'/>
+    </pages>
+</playground>

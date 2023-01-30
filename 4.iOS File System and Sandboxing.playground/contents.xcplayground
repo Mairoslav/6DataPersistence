@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='1. Intro'/>
+        <page name='2. The iOS File System'/>
+        <page name='3. File System Quiz'/>
+        <page name='4. The Sandbox'/>
+        <page name='5. Where Stuff Will Be Stored'/>
+        <page name='6. Writing &amp; Reading from the Sandbox'/>
+        <page name='7. A Visitor'/>
+    </pages>
+</playground>
