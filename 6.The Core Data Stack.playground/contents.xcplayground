@@ -18,5 +18,14 @@
         <page name='14. NSPredicateB'/>
         <page name='14. NSPredicateC'/>
         <page name='14. NSPredicateD'/>
+        <page name='15. A Predicate Predicament'/>
+        <page name='16. Saving Edits in NoteDetailsViewController'/>
+        <page name='17. When Should You Save?'/>
+        <page name='18. Subclassing in Core Data'/>
+        <page name='19. Context Concerns'/>
+        <page name='20. Extending Model Classes'/>
+        <page name='21. Customizing Note Initialization'/>
+        <page name='22. Singletons and Dependency Injection'/>
+        <page name='23. Review'/>
     </pages>
 </playground>

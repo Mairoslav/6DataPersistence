@@ -19,11 +19,8 @@ import Foundation
  
  // You can also compare values using >, >=, < or <=:
     
-    let runs: [NSString] = [ "1", "77", "3", "555"]
-    // let predicateForRuns = NSPredicate(format: "distance > 500")
     let predicateForRuns = NSPredicate(format: "distance > 500")
-    let runsOver500 = (runs as NSArray).filtered(using: predicateForRuns)
- 
+    
  // This example looks for an attribute named distance on the items being filtered, and narrows the scope to those items where it's strictly greater than 500.
 
  // You can express inequality using <> or !=:

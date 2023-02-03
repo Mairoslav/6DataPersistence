@@ -15,10 +15,11 @@ import Foundation
 
    // Two subpredicates created using format strings
    let agePredicate = NSPredicate(format: "age > 45")
-   let retiredPredicate = NSPredicate(format: "retired = true”)
+   let retiredPredicate = NSPredicate(format: "retired = true")
 
    // A compound predicate created directly
    let subpredicates: [NSPredicate]
+   let retireesOnly: Bool = false
    if retireesOnly {
        subpredicates = [ agePredicate, retiredPredicate ]
    } else {
@@ -35,6 +36,7 @@ https://developer.apple.com/documentation/foundation/nspredicate
 https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Predicates/AdditionalChapters/Introduction.html#//apple_ref/doc/uid/TP40001798-SW1
 https://nshipster.com/nspredicate/
 https://academy.realm.io/posts/nspredicate-cheatsheet/
+https://nspredicate.xyz // suggested by Spiros from Udacity 
 */
 
 //: [Next](@next)
