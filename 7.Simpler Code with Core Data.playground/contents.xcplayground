@@ -4,5 +4,8 @@
         <page name='1. Introduction'/>
         <page name='2. Refactoring'/>
         <page name='3. Complexity in Mooskine'/>
+        <page name='4. NSFetchedResultsController'/>
+        <page name='5. Core Data Notifications'/>
+        <page name='6. Adding a Fetched Results Controller'/>
     </pages>
 </playground>
