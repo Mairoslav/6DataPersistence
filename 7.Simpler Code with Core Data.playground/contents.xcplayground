@@ -7,5 +7,8 @@
         <page name='4. NSFetchedResultsController'/>
         <page name='5. Core Data Notifications'/>
         <page name='6. Adding a Fetched Results Controller'/>
+        <page name='7. Fetched Results Controller and Collections'/>
+        <page name='8. Displaying Data'/>
+        <page name='9. Tracking Changes'/>
     </pages>
 </playground>
